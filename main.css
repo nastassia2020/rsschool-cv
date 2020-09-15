@@ -1,0 +1,14 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img{
+    width: 20%;
+}
