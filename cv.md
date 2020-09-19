@@ -20,7 +20,7 @@
                 </div>
                 <div class="about_me">
                     <h3>About me</h3>
-                    <p>I am a Nastassia, who aims to be able  to find an exciting and challenging entry level position in the Information and Technology industry alongside a company, who will continuously motivate and drive me to do my best and improve my skills and abilities, in order to be able to assist the company in achieving its company mission and goals.</p>
+                    <p>I am a Nastassia Shylko, who aims to be able  to find an exciting and challenging entry level position in the Information and Technology industry alongside a company, who will continuously motivate and drive me to do my best and improve my skills and abilities, in order to be able to assist the company in achieving its company mission and goals.</p>
                 </div>
             </header>
             <footer class="language"><h3>English-level:</h3> <p>Intermediate</p> </footer>
