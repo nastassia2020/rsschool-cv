@@ -69,6 +69,10 @@
     font-size: 18px;
 }
 
+.contact-info a{
+    color: rgb(255, 255, 255);
+}
+
 .contact-info p{
     margin: 20px auto;
 }

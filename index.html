@@ -16,6 +16,7 @@
                     <p>Gomel, Belarus</p>
                     <p>Mob: +375293602276</p>
                     <p>E-mail: nastassiashylko@gmail.com</p>
+                    <p><a href="https://gitlab.com/Nastassia2020/projectx.git">My git</a></p>
                 </div>
                 <div class="about_me">
                     <h3>About me</h3>
