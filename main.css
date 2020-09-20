@@ -1,0 +1,183 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(/Quicksand-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+.background{
+    position: relative;
+    overflow-x: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.background img{
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    top: 50px;
+    left: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img{
+    background-size: cover;
+    margin:0 auto;
+    border: 2px solid gray;
+    width: 241px;
+    height: 280px;
+}
+
+.img img{
+    width: 241px;
+    height: 280px;
+}
+
+.left-side{
+    width: 30%;
+    background-color: rgb(42, 42, 75);
+    color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.right-side{
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding-left: 5%;
+}
+
+.contact-info{
+    width: 70%;
+    margin: 10px auto;
+    font-size: 18px;
+}
+
+.contact-info a{
+    color: rgb(255, 255, 255);
+}
+
+.contact-info p{
+    margin: 20px auto;
+}
+
+.about_me{
+    width: 70%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+.about_me p{
+    line-height: 22px;
+    margin: 20px auto;
+}
+
+.about_me h3{
+    font-size: 18px;
+    margin-bottom: 0;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.language{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    margin-bottom: 150px;
+}
+
+.language h3{
+    margin-left: 15%;
+    margin-right: 5%;
+    text-decoration: underline;
+}
+
+.name_info h1{
+    font-weight: 400;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.name_info h2{
+    font-weight: 400;
+    color: darkblue;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.tools{
+    margin-bottom: 10px;
+}
+
+.tools h2{
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.education_job h2{
+    margin-bottom: 10px;
+}
+
+.education{
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.article-header{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.article-content{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 10px;
+}
+
+.about_experience h2{
+    margin-bottom: 10px;
+}
+
+.job{
+    display: flex;
+    flex-direction: row;
+}
+
+.date{
+    color: darkblue;
+}
+
+.content_name{
+    font-style: italic;
+    font-size: 18px;
+}
+
+.info{
+    font-weight: 600;
+}
+
+.content_info{
+    font-size: 16px;
+}
